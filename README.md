@@ -1,2 +1,3 @@
 # determinant
-Npm pacakge for unefficient calculation of determinants using Laplace expansion.
+
+Unefficient calculation of determinants using Laplace expansion.
